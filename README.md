@@ -8,9 +8,9 @@ Me chamo **Marcos** e sou **desenvolvedor web**. Atualmente estou focando (estud
 
 ### Estudando no momento
 
-- [] UI Design
-- [] HTML
-- [] CSS
-- [] JS
+- [ ] UI Design
+- [ ] HTML
+- [ ] CSS
+- [ ] JS
 
-Abraços🤓🤘
+Abraços 🤓🤘
