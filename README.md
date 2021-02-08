@@ -6,11 +6,12 @@
 
 Me chamo **Marcos** e sou **desenvolvedor web**. Atualmente estou focando (estudando) no lado **frontend** e futuramente pretendo explorar mais a fundo o lado do backend (Possuo conhecimento básico como CRUD e MVC).
 
-### Estudando no momento
+### Skills
 
 - [ ] UI Design
 - [ ] HTML
 - [ ] CSS
 - [ ] JS
+- [ ] React
 
 Abraços 🤓🤘
