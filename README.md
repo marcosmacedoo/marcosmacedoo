@@ -12,10 +12,10 @@
 
 ## Skills
 
-- [ ] UI Design
-- [ ] HTML
-- [ ] CSS
-- [ ] JS
-- [ ] React
+- [x] UI Design
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] React
 
 Abraços 🤓🤘
