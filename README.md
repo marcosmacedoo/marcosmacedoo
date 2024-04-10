@@ -1,24 +1,32 @@
 # Marcos Macedo
-## Desenvolvedor Front-end | UI Designer
+## Desenvolvedor Front-end Pleno | UI Designer
 
 [![Linkedin Badge](https://raw.githubusercontent.com/marcosmacedoo/marcosmacedoo/main/assets/link-linkedin.png)](https://www.linkedin.com/in/marcos-macedoo/) 
 [![Instagram Badge](https://raw.githubusercontent.com/marcosmacedoo/marcosmacedoo/main/assets/link-instagram.png)](https://www.instagram.com/_marcosmacedoo/)
 
-<p>Me chamo <strong>Marcos</strong> e sou <strong>desenvolvedor front-end</strong>. Descobri o mundo da programação em 2016 quando entrei para o curso técnico em informática no IFPI, e isso abriu o mundo da tecnologia que jamais tinha explorado.</p>
+<p>Sou um desenvolvedor front-end que está no mercado desde 2020 e já participei de três projetos que contribuí do zero até o funcionamento real na internet, possuo um bom conhecimento de React e UI Design.</p>
 
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas, atuo profissionalmente como desenvolvedor desde 2021 e procuro está sempre estudando o espetacular ecossistema <strong>Front-End</strong> juntamente com UI Design. Apesar da minha paixão ser o front-end, possuo um conhecimento básico de back-end (API, Banco de dados e entre outros)</p>
+<p>A programação me encantou pelos poderes que ela pode proporcionar, então resolvi explorar a área de desenvolvimento web e me apaixonei pelo universo de front-end. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando Front-End e UI Design.</p>
 
-<p>Meu objetivo como desenvolvedor é ajudar pessoas através da tecnologia e assim poder solucionar problemas que afetam sua vida. Gosto de aprender, compartilhar conhecimento e sempre aberto a diálogos (principalmente aqueles envolvem futebol).</p>
+<p>Meu maior objetivo como desenvolvedor é ajudar as pessoas através da tecnologia e assim solucionar diversos problemas. Gosto de aprender, compartilhar conhecimento e desafios.</p>
 
-## Skills
+### Habilidades técnicas
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- React Native
-- Git
-- UI Design
+- Linguagens: HTML, CSS, JavaScript, TypeScript, Python e Java;
+- Frameworks/Bibliotecas: ReactJS (Redux, ContextAPI e Hooks), NextJS, React Native, Jest, Cypress, Styled Components, Tailwind CSS, Material UI, Node e ChartsJS e Axios;
+- Ferramentas: Git, Figma e Metodologia ágil (Scrum/Kanban);
+- Outros: Clean Code, API Rest, Testes e UI Design.
+
+### Habilidades interpessoais
+
+- Trabalho em equipe;
+- Planejamento;
+- Pensamento crítico;
+- Aprendizagem contínua;
+- Empatia;
+- Comunicação;
+- Flexibilidade;
+- Ética.
+
 
 Sinta-se a vontade para explorar meus projetos, abraços 🤓🤘
