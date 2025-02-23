@@ -1,20 +1,21 @@
 # Marcos Macedo
-## Desenvolvedor Front-end Pleno | UI Designer
+## Desenvolvedor Front-end 💻🧠 
 
 [![Linkedin Badge](https://raw.githubusercontent.com/marcosmacedoo/marcosmacedoo/main/assets/link-linkedin.png)](https://www.linkedin.com/in/marcos-macedoo/) 
 [![Instagram Badge](https://raw.githubusercontent.com/marcosmacedoo/marcosmacedoo/main/assets/link-instagram.png)](https://www.instagram.com/_marcosmacedoo/)
 
-<p>Sou um desenvolvedor front-end que está no mercado desde 2020 e participei da criação de interfaces e otimização de plataformas em diversos setores, como financeiro, educacional e e-commerce. Possuo experiência com React, React Native, Next.js, Testes e UI Design, tenho foco em criar e melhorar soluções que facilitem a vida das pessoas por meio da tecnologia.</p>
+<p>👋 Olá! Sou um Desenvolvedor Front-end apaixonado por criar soluções acessíveis, escaláveis e de alto impacto. Com 5 anos de experiência em React, Next.js, TypeScript e UX/UI, atuei em setores como financeiro, educacional e e-commerce, sempre buscando entregar produtos que transformam a experiência do usuário.</p>
 
-<p>A programação me encantou pelos poderes que ela pode proporcionar, então resolvi explorar a área de desenvolvimento web e me apaixonei pelo universo de front-end. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (Previsão de término em Fev/2025) e procuro sempre está atualizado sobre o ecossistema Front-end. Sou apaixonado por futebol, cinema e tecnologia.</p>
+<p>A programação me encantou pelos poderes que ela pode proporcionar, então resolvi explorar a área de desenvolvimento web e me apaixonei pelo universo de front-end. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (Previsão de término em Dez/2025) e procuro sempre está atualizado sobre o ecossistema Front-end. Sou apaixonado por futebol, cinema e tecnologia.</p>
 
 ### Habilidades técnicas
 
-- Linguagens: HTML, CSS, JavaScript, TypeScript, Python e Java;
-- Frameworks/Bibliotecas: ReactJS (Redux, ContextAPI e Hooks), Remix, Zod, React Query, RadixUI, NextJS, React Native, Jest, Cypress, Styled Components, Tailwind CSS, Material UI, Node, ChartsJS e Axios;
-- Ferramentas: Git, Github, Gitlab, Figma, Trello e Jira;
-- Outros: Clean Code, API Rest, Testes, Code Review, Metodologia ágil (Scrum/Kanban), CI/CD e UI Design.
-
+- **Front-end**: React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Material UI, Styled Components.
+- **Back-end**: Node.js, APIs RESTful, PostgreSQL.
+- **Testes**: Jest, Cypress, React Testing Library.
+- **Ferramentas**: Git, GitHub Actions, AWS, Storybook, Figma.
+- **Práticas**: SEO, Micro Frontends, Design Systems, CI/CD, Metodologias Ágeis (Scrum/Kanban).
+  
 ### Habilidades interpessoais
 
 - Trabalho em equipe;
@@ -25,5 +26,14 @@
 - Comunicação;
 - Criatividade;
 - Ética.
+
+### Por que Amo Ser Desenvolvedor Front-end?
+<p>💻 Criatividade e Inovação: Adoro transformar designs em interfaces funcionais e intuitivas, sempre buscando a melhor experiência para o usuário.</p>
+<p>🚀 Impacto Direto: Ver o resultado do meu trabalho sendo utilizado por milhares de pessoas é incrivelmente gratificante.</p>
+<p>🧠 Desafios Constantes: A tecnologia está sempre evoluindo, e isso me motiva a aprender e me superar todos os dias.</p>
+
+### Contato
+- 📧 E-mail: marcosmacedoo.dev@gmail.com
+- 💼 LinkedIn: [Marcos Macedo](https://www.linkedin.com/in/marcos-macedoo/)
 
 Sinta-se a vontade para explorar meus projetos, abraços 🤓🤘
